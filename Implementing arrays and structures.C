@@ -35,6 +35,4 @@ int main() {
         printf("Salary: $%.2f\n", employees[i].salary);
         printf("\n");
     }
-
-    return 0;
 }
